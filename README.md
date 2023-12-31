@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @07kanthraj
-- 👀 I’m interested in DevOps, Embedded Systems and BlockChain Technology
+- 👀 I’m interested in DevSecOps, Embedded Systems and BlockChain Technology
 - 🌱 I’m currently learning DevOps Tools
 - 📫 How to reach me At 07kanthraj@gmail.com
 

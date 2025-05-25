@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @07kanthraju
+- 👋 Hi, I’m kanthraju
 - 👀 I’m interested in DevSecOps, Embedded Systems and BlockChain Technology
-- 🌱 I’m currently learning DevOps Tools
+- 🌱 I’m currently studying MCA and learning DevOps Tools, springboot, spring data JPA and more..
 - 📫 How to reach me At 07kanthraju@gmail.com
 
 <!---
